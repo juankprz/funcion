@@ -1,0 +1,12 @@
+{
+    "name": "usuario/proyecto",
+    "authors": [
+        {
+            "name": "Juan Perez",
+            "email": "juancamiloperez2009@hotmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0"
+    }
+}
